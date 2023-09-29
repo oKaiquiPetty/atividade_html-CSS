@@ -1,0 +1,35 @@
+.div1{
+    
+border-radius: 30% 30% 0% 0%;
+
+border-style: double;
+
+    background-color: #0aedcbf1;
+    height: 700px; max-width: 600px
+
+
+}
+.divmsg{
+    background-color: #246c61e6; height: 400px; max-width: 400px;
+    border-radius: 40%  40% 40% 40%;
+     border-style: groove;
+}
+
+.divmsgin{
+    color: antiquewhite; background-color: darkred; font-size: 25px; font-family: serif;
+    width: fit-content;
+}
+
+.divC{
+    background-color: rgb(0, 197, 246) ; max-width: 75vw; height: 50vh;
+    border-radius: 30% 30% 10% 10%;
+
+border-style: double;
+}
+.divD{
+    background-color: rgb(228, 0, 0);
+width: 75vw; height: 250px;
+border-radius: 0% 0% 10% 10%;
+
+border-style: double;
+}
